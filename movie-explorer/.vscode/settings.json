@@ -1,0 +1,5 @@
+{
+  "git.openRepositoryInParentFolders": "never",
+  "git.ignoredRepositories": ["C:\\Users\\Sys"],
+  "git.autoRepositoryDetection": "openEditors"
+}
